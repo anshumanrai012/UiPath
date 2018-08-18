@@ -1,0 +1,14 @@
+{
+  "name": "Challenge2- Pie Chart in Excel File",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6745.20938",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
